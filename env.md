@@ -138,6 +138,13 @@ Dolby TrueHD対応 7.1ch フロントディスプレイ死亡
 2026/05 譲り受け
 最大6ch全録 2TB(普段はNHK,BS11を録画)
 
+### SHARP 4S-C00AS1
+ISDB-S3チューナー　ACASもぎ取り用
+
+### Panasonic TU-BUHD100
+ISDB-S3/S/Tチューナー
+例のアレでTSをぶっこ抜いている
+
 
 
 
