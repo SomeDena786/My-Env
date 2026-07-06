@@ -134,7 +134,9 @@ Dolby TrueHD対応 7.1ch フロントディスプレイ死亡
 - ウーファー: YAMAHA YST-SW015
 - サラウンド: DENONのなんか
 
-
+### Panasonic DMR-BRX2050
+2026/05 譲り受け
+最大6ch全録 2TB(普段はNHK,BS11を録画)
 
 
 
