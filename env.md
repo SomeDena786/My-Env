@@ -1,5 +1,7 @@
 # 環境
-2026/5/28現在
+2026/5/26 初版
+2026/07/06 追記
+
 
 ## PC
 
@@ -83,9 +85,9 @@ NTT貸与品　XG-100NE
 - GS916v2 (16Port GbE)
 
 ### 予備ルーター
--NEC IX2215
--NEC IX2105
--YAMAHA NVR510
+- NEC IX2215
+- NEC IX2105
+- YAMAHA NVR510
 
 ## スマートフォン/タブレット
 
@@ -118,6 +120,21 @@ NTT貸与品　XG-100NE
 
 ### iPad Air 3rd 64GB Gold Wi-Fi
 2020/04 Apple直販購入
+
+## AV
+### Hisense 50U8R
+2026/06 50A6Kの故障交換（無償）
+miniLED+量子ドットスタンダードモデル
+
+### DENON AVR-X1100W
+2026/02 ハードオフにて中古購入
+Dolby TrueHD対応 7.1ch フロントディスプレイ死亡
+- センター: YAMAHA NS-C10MM
+- フロント: YAMAHA NS-10MMF
+- ウーファー: YAMAHA YST-SW015
+- サラウンド: DENONのなんか
+
+
 
 
 
